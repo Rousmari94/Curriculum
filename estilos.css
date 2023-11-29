@@ -1,0 +1,100 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenedor{
+    display: flex;   
+}
+
+
+
+
+a{ 
+    vertical-align: inherit;
+}
+
+.col-1{
+    background-color: rgb(66, 132, 66);
+    width: 220px;
+    margin-top: 0px;   
+    padding: 40px;
+    border: 3px solidrgb(8, 71, 31)k; 
+    vertical-align: inherit;
+    text-align: center;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white
+  }
+  
+  .fa-instagram {
+    background: #c63683;
+    color: white;
+  }
+
+.col-2{
+    background-color: rgb(218, 214, 189);
+    width:  1200px;
+    margin:  0%;
+    padding: 40px;
+    text-align: center;
+    border: solid 3px black;
+
+}
+
+.texto1{
+   text-align: left;
+   border: solid 1px;
+   margin: 10px;
+   padding:10px;
+   background-color: rgb(174, 158, 136) ;
+   border: solid 3px black;
+
+
+}
+
+.texto2{
+    text-align: left;
+    border: solid 1px;
+    margin: 10px;
+    padding:10px;
+    background-color: rgb(174, 158, 136) ;
+ }
+
+ .texto3{
+    text-align: left;
+    border: solid 1px;
+    margin: 10px;
+    padding:10px;
+    background-color: rgb(174, 158, 136) ;
+
+ }
+ .texto4{
+    text-align: left;
+    border: solid 1px;
+    margin: 10px;
+    padding:10px;
+    background-color: rgb(141, 116, 82) ;
+ }
+
+ .hide{
+  display: none
+ }
+
+ .show{
+  display: block;
+ }
